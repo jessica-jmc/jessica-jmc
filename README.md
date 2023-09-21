@@ -2,7 +2,9 @@
 
 💼 Com 9 anos de experiência em design, participei de projetos de comunicação visual, branding, UX/UI, e otimização de conversão. Proficiente em ferramentas como Photoshop, Illustrator, After Effects, e habilidades em HTML, CSS, JavaScript, PHP, Bootstrap e Laravel. Reconhecida pela flexibilidade, resolução de problemas e trabalho em equipe. Possuo mentalidade voltada para desafios e aprendizado contínuo.
 
-🔭 Atualmente estou trabalhando no site da Sanar Pós em Wordpress(solicitação da empresa) e estudando para configurar o site com foco na otimização da performance. 
+🔭 Atualmente estou trabalhando no site da Sanar Pós em Wordpress(solicitação da empresa) e estudando para configurar o site com foco na otimização de performance. 
+
+💻 Estudante de análise e desenvolvimento de sistemas no Instituto Federal de São Paulo - IFSP.
 
 ---
 
